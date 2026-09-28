@@ -1,4 +1,4 @@
-export const medicineDb = [
+[
   {
     "Sno": 1,
     "Brand Name": "Amlogud-AT",
@@ -10856,4 +10856,4 @@ export const medicineDb = [
     "Current Mrp": 1500.0,
     "MOQ": "300 Boxes"
   }
-];
+]
