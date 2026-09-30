@@ -5,7 +5,7 @@ import re
 
 # File paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.abspath(os.path.join(BASE_DIR, '../Monark new.csv'))
+CSV_PATH = os.path.abspath(os.path.join(BASE_DIR, '../Monark latest - merged all medicines.csv'))
 OUTPUT_JS_PATH = os.path.abspath(os.path.join(BASE_DIR, 'src/data/medicines.js'))
 OUTPUT_JSON_PATH = os.path.abspath(os.path.join(BASE_DIR, 'src/data/medicines.json'))
 
